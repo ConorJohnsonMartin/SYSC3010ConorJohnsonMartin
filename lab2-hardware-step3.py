@@ -1,4 +1,3 @@
-#import random
 from sense_emu import SenseHat
 
 s = SenseHat()
